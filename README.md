@@ -16,7 +16,7 @@ The project contains apple web page clone.
 ---
 
 ### 🔥 **Folder Structure**```plaintext
-📁 collab-project
+📁 AppleClone_Ready
  ┣ 📁 images
  ┣ 📁 css
  ┣ 📁 js
